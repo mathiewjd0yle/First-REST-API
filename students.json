@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Alice", "age": 21, "major": "Computer Science"},
+    {"id": 2, "name": "Bob", "age": 22, "major": "Mathematics"},
+    {"id": 3, "name": "Jeff", "age": 20, "major": "Biology"},
+    {"id": 4, "name": "Sophia", "age": 23, "major": "Physics"},
+    {"id": 5, "name": "Michael", "age": 24, "major": "Chemistry"},
+    {"id": 6, "name": "Emma", "age": 22, "major": "History"}
+]
